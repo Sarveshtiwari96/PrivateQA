@@ -141,8 +141,6 @@ Before running the code, ensure you have the following installed:
 
 ## Author
 
-[Your Name]
+Sarveshmani Tiwari
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
